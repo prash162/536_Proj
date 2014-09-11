@@ -107,7 +107,7 @@ public class P1 {
 					if (table.lookupLocal(findLoc[i]) != null)
 						System.out.println("found "+ findLoc[i]+" in first scope of table");
 					else
-						System.out.println("did not find"+ findLoc[i]+" in first scope of table");
+						System.out.println("did not find "+ findLoc[i]+" in first scope of table");
 				}
 				
 				try {
